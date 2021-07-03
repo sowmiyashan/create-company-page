@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/create-company-page/static/css/main.90d6ae58.chunk.css",
+    "main.js": "/create-company-page/static/js/main.82bfb597.chunk.js",
+    "main.js.map": "/create-company-page/static/js/main.82bfb597.chunk.js.map",
+    "runtime-main.js": "/create-company-page/static/js/runtime-main.70ccd2e1.js",
+    "runtime-main.js.map": "/create-company-page/static/js/runtime-main.70ccd2e1.js.map",
+    "static/js/2.70dac276.chunk.js": "/create-company-page/static/js/2.70dac276.chunk.js",
+    "static/js/2.70dac276.chunk.js.map": "/create-company-page/static/js/2.70dac276.chunk.js.map",
+    "static/js/3.e75fe395.chunk.js": "/create-company-page/static/js/3.e75fe395.chunk.js",
+    "static/js/3.e75fe395.chunk.js.map": "/create-company-page/static/js/3.e75fe395.chunk.js.map",
+    "index.html": "/create-company-page/index.html",
+    "static/css/main.90d6ae58.chunk.css.map": "/create-company-page/static/css/main.90d6ae58.chunk.css.map",
+    "static/js/2.70dac276.chunk.js.LICENSE.txt": "/create-company-page/static/js/2.70dac276.chunk.js.LICENSE.txt",
+    "static/media/CoverPhoto.css": "/create-company-page/static/media/event-photo.2f392347.jpg",
+    "static/media/logo.6ce24c58.svg": "/create-company-page/static/media/logo.6ce24c58.svg",
+    "static/media/plus-alt2.697d11bf.svg": "/create-company-page/static/media/plus-alt2.697d11bf.svg",
+    "static/media/zoom.3068c686.png": "/create-company-page/static/media/zoom.3068c686.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70ccd2e1.js",
+    "static/js/2.70dac276.chunk.js",
+    "static/css/main.90d6ae58.chunk.css",
+    "static/js/main.82bfb597.chunk.js"
+  ]
+}
