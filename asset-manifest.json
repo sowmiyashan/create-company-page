@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/create-company-page/static/css/main.e935f666.chunk.css",
-    "main.js": "/create-company-page/static/js/main.a32324b2.chunk.js",
-    "main.js.map": "/create-company-page/static/js/main.a32324b2.chunk.js.map",
+    "main.css": "/create-company-page/static/css/main.c8c51c48.chunk.css",
+    "main.js": "/create-company-page/static/js/main.1a27c11d.chunk.js",
+    "main.js.map": "/create-company-page/static/js/main.1a27c11d.chunk.js.map",
     "runtime-main.js": "/create-company-page/static/js/runtime-main.70ccd2e1.js",
     "runtime-main.js.map": "/create-company-page/static/js/runtime-main.70ccd2e1.js.map",
     "static/js/2.a42fb698.chunk.js": "/create-company-page/static/js/2.a42fb698.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e75fe395.chunk.js": "/create-company-page/static/js/3.e75fe395.chunk.js",
     "static/js/3.e75fe395.chunk.js.map": "/create-company-page/static/js/3.e75fe395.chunk.js.map",
     "index.html": "/create-company-page/index.html",
-    "static/css/main.e935f666.chunk.css.map": "/create-company-page/static/css/main.e935f666.chunk.css.map",
+    "static/css/main.c8c51c48.chunk.css.map": "/create-company-page/static/css/main.c8c51c48.chunk.css.map",
     "static/js/2.a42fb698.chunk.js.LICENSE.txt": "/create-company-page/static/js/2.a42fb698.chunk.js.LICENSE.txt",
     "static/media/CoverPhoto.css": "/create-company-page/static/media/event-photo.2f392347.jpg",
     "static/media/logo.6ce24c58.svg": "/create-company-page/static/media/logo.6ce24c58.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.70ccd2e1.js",
     "static/js/2.a42fb698.chunk.js",
-    "static/css/main.e935f666.chunk.css",
-    "static/js/main.a32324b2.chunk.js"
+    "static/css/main.c8c51c48.chunk.css",
+    "static/js/main.1a27c11d.chunk.js"
   ]
 }
